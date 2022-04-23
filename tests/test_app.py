@@ -1,4 +1,4 @@
-from src.app import index
+from app import index
 # from flask import Flask
 # import pytest
 
